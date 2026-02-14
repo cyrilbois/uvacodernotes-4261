@@ -23,7 +23,7 @@ I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
 - [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html) ([Lobsters](https://lobste.rs/s/rbom5a/roy_fielding_s_misappropriated_rest)) ([HN](https://news.ycombinator.com/item?id=23670238)) ([HN](https://news.ycombinator.com/item?id=29009729))
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping. Powered by JSON Server + LowDB.
-- [MockAPY](https://pythonium.net/mockapy) - Fake API designed for testing and prototyping, with Python for added flexibility.
+- [MockAPY](https://pythonium.net/mockapy) - Fake API designed for testing and prototyping, with Python for added flexibility. ([Code](https://github.com/cyrilbois/mockapy))
 - [Steps for Designing REST API](https://www.wutsi.com/read/246/5-steps-for-designing-your-rest-apis)
 - [REST API response – Should you envelope or not?](https://news.ycombinator.com/item?id=25913429)
 - [Best practices for REST API design (2020)](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/) ([HN](https://news.ycombinator.com/item?id=26225373))
